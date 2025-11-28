@@ -4,3 +4,4 @@
 * **Cédula:** 1000182850
 * **Programa:** Ingeniería Industrial
 * **Video entrega # 2:** https://youtu.be/F9WJpmtS21I?si=4vtkk0pRB97Qu3YM
+* **Video Final:** https://youtu.be/gHD1XLc1_wE?si=NuC-m60gWmkreRpu
